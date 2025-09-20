@@ -2,6 +2,11 @@
 
 A modern Netflix clone built with React, Firebase, and Vite. This project replicates core Netflix functionalities including user authentication, movie browsing, and video playback.
 
+## 🚀 Deployment
+
+You can view the live project here: [Netflix Clone](https://netflix-clone-d0cd7.web.app/)
+
+
 ## 🚀 Features
 
 - 🔐 User Authentication (Sign up, Sign in, Sign out)
